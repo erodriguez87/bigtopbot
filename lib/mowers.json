@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Navimow X390",
+    "brand": "Segway",
+    "price": 2999.00,
+    "acreage": "2.5 acres",
+    "cuttingWidth": "10.2 in",
+    "maxIncline": "50%",
+    "boundaryWire": false,
+    "navigation": "EFLS 3.0 RTK + 4G Cellular",
+    "bladeType": "Pivoting Razor Discs",
+    "removableBattery": false,
+    "driveType": "RWD",
+    "image": "https://images.unsplash.com/photo-1592424001807-6c2e30851ec6?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "Lidax Ultra 3000",
+    "brand": "Mova",
+    "price": 2399.00,
+    "acreage": "0.75 acres",
+    "cuttingWidth": "11.0 in",
+    "maxIncline": "45%",
+    "boundaryWire": false,
+    "navigation": "3D LiDAR Vision",
+    "bladeType": "Solid Steel Multi-Blade",
+    "removableBattery": false,
+    "driveType": "RWD",
+    "image": "https://images.unsplash.com/photo-1628102491629-77858ab5721d?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "LUBA 3 AWD 3000S",
+    "brand": "Mammotion",
+    "price": 2499.00,
+    "acreage": "0.75 acres",
+    "cuttingWidth": "15.7 in",
+    "maxIncline": "80%",
+    "boundaryWire": false,
+    "navigation": "3D Vision + RTK Fusion",
+    "bladeType": "Dual Floating Discs",
+    "removableBattery": false,
+    "driveType": "AWD",
+    "image": "https://images.unsplash.com/photo-1621905252507-b35492cc74b4?auto=format&fit=crop&w=800&q=80"
+  }
+]
